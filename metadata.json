@@ -1,0 +1,6 @@
+{
+  "name": "AlgoSync",
+  "description": "Algorithmic spaced repetition & problem vault for competitive programming and technical interviews",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
